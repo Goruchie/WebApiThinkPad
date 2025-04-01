@@ -1,0 +1,6 @@
+@WebApiThinkPad_HostAddress = http://localhost:5274
+
+GET {{WebApiThinkPad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
